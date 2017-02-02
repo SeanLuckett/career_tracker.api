@@ -1,0 +1,24 @@
+{
+  "data": {
+    "id:": "",
+    "attributes": {
+      "description": ""
+    },
+    "position": {
+        "id": "",
+        "attributes": {
+        },
+        "links": {
+          "self": ""
+        }
+    },
+    "employer": {
+        "id": "",
+        "attributes": {
+        },
+        "links": {
+          "self": ""
+        }
+      }
+  }
+}

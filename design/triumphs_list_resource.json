@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "id": "",
+      "attributes": {
+        "description": ""
+      },
+      "relationships": [
+        {
+          "type": "position",
+          "id": "",
+          "link": ""
+        },
+        {
+          "type": "employer",
+          "id": "",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "id": "",
+      "attributes": {
+        "description": ""
+      },
+      "relationships": [
+        {
+          "type": "position",
+          "id": "",
+          "link": ""
+        },
+        {
+          "type": "employer",
+          "id": "",
+          "link": ""
+        }
+      ]
+    }
+  ]
+}
